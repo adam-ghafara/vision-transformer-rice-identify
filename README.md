@@ -96,4 +96,4 @@ ROC Curves (With Augmentation)
 
 The ROC curve results for the model without augmentation show that the model performs very well, with a score of 1.00 for all classes. Meanwhile, the results for the model using augmentation show a decrease in scores for the Arborio and Jasmine classes, both of which scored 0.99.
 
-The implementation through webpage can be found on this repository.
+The implementation through Rice Identify Web Page can be found on this [Repository](https://github.com/adam-ghafara/rice-identify-flaskpage).
